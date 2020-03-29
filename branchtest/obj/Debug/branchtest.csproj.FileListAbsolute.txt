@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\branchtest\branchtest\bin\Debug\branchtest.exe.config
+C:\Users\ASUS\source\repos\branchtest\branchtest\bin\Debug\branchtest.exe
+C:\Users\ASUS\source\repos\branchtest\branchtest\bin\Debug\branchtest.pdb
+C:\Users\ASUS\source\repos\branchtest\branchtest\obj\Debug\branchtest.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\branchtest\branchtest\obj\Debug\branchtest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\branchtest\branchtest\obj\Debug\branchtest.exe
+C:\Users\ASUS\source\repos\branchtest\branchtest\obj\Debug\branchtest.pdb
