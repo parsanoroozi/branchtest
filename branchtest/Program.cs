@@ -12,6 +12,7 @@ namespace branchtest
         {
             Console.WriteLine("a");
             Console.WriteLine("q");
+            Console.WriteLine("asd");
         }
     }
 }
