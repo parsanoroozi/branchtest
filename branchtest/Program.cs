@@ -11,6 +11,7 @@ namespace branchtest
         static void Main(string[] args)
         {
             Console.WriteLine("a");
+            Console.WriteLine("q");
         }
     }
 }
